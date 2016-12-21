@@ -1,0 +1,2 @@
+# i3-natural-scrolling
+The above is a script that uses an alternate method to enable natural scrolling on machines running the i3 window manager. This was created after a realization that, for machines that do not use a synaptics touchpad, the easily google-able solutions to enable natural scrolling are not applicable: these include modifying .Xmodmap (not universal) and using synclient (also not universal). 
